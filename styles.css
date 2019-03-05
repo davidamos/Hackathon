@@ -1,0 +1,28 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+}
+
+html, body{
+    width: 100%;
+    height:100%;
+}
+.column{
+    padding-right: 50px;
+    display: inline-block;
+}
+.row{
+    text-align: center;
+
+}
+.footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
